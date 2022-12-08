@@ -1,6 +1,11 @@
-![Sadia's GitHub Banner](https://github.com/sadia136310/sadia136310/blob/main/Beige Minimalist Graphic Designer LinkedIn Article Cover Image (1).png)
+<img src="Syeda-Tamanna-Sheme.png" alt="" /> </a><p align="center"> 
 
-<h1 align="center">Hi 👋, I'm Sadia Islam</h1>
+<h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm Syeda Tamanna Sheme </h1>
+
+<h3 align="center"> Software Engineer || Web Developer</h3>
+<br />
+<br />
+
 <h3 align="center">A passionate Front End developer from Dhaka,Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia136310&label=Profile%20views&color=0e75b6&style=flat" alt="sadia136310" /> </p>
